@@ -1,6 +1,6 @@
 # Starter Next.Js Template with TailwindCss, Redux, and Typescript
 
-This is a starter Next.Js Template with TailwindCss, Redux, and Typescript
+This is a starter Next.Js Template with TailwindCss, Redux, and Typescript. Be sure to modify this file and the LICENSE.md file to suit your project's needs.
 
 ## How to use
 
