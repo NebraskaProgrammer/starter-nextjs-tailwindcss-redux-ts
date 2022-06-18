@@ -1,3 +1,3 @@
 # Layouts
 
-You layouts (templates) go in this folder.
+Your layouts (templates) go in this folder.
