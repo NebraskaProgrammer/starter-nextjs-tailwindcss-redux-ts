@@ -1,3 +1,3 @@
 # Project Styles
 
-The project styles (.css files) go here.
+The project styles (.css, etc... files) go here.
